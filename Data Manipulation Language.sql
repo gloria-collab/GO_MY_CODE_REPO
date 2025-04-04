@@ -4,7 +4,7 @@ INSERT INTO DEPARTMENT(Label, Manager_Name) VALUES
 (3,"Marketing", "Clara Bennett");
 
 INSERT INTO Employee(Name,Position, Salary, Department_Num) VALUES
-("John Doe","Developer",60000.00, 1),
+("John Doe","Developer",60000.00,1),
 ("Jane Smith","Analyst",55000.00,2),
 ("Mike Brown","Designer",55000.00,3),
 ("Sarah Johnson", "Data Scientist",70000,1),
