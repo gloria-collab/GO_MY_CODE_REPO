@@ -17,7 +17,7 @@ Department:
     Manager_Name
 
 Employee_Projects:
-    Employee_Num_e (primary key)
+    Employee_Num_e (Foreign key)
     Projects_num_s (Foreign key)
 
 
