@@ -21,6 +21,28 @@
             "username": "postgres",
             "password": "ikpemosime",
             "connectionTimeout": 30
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "pg local",
+            "database": "postgres",
+            "username": "postgres",
+            "connectionTimeout": 30,
+            "password": "ikpemosime"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "pg local",
+            "database": "Ecommerce",
+            "username": "postgres",
+            "password": "ikpemosime",
+            "connectionTimeout": 30
         }
     ]
 }
